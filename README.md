@@ -23,7 +23,7 @@ Lights cycle automatically (Red → Yellow → Green) and respond to keyboard in
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/TrafficLight.git
+git clone https://github.com/Hamza-dev3/TrafficLight.git
 ```
 Or download the ZIP from GitHub and extract it.
 
