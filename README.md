@@ -30,9 +30,12 @@ Or download the ZIP from GitHub and extract it.
 ### 2. Open the solution
 1. Open **Visual Studio 2022** (or later)
 2. Click **Open a project or solution**
-3. Open **`TrafficLight.sln`** from the cloned folder
+3. Open **`TrafficLight.slnx`** from the cloned folder
 
 ### 3. Build and Run
+## ⚠️ Requirements
+
+- **Visual Studio 2022 or later** is required to open and build this project.  
 1. Set platform to **x64**
 2. Press **Ctrl + F5**
 3. The window opens immediately ✅
