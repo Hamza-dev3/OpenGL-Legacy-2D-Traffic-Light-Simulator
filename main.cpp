@@ -10,7 +10,7 @@ int   lightState = 0;
 float activeAlpha = 1.0f;
 float xOffset = 0.0f;
 float lastSwitchTime = 0.0f;
-float lightDuration[3] = { 3.5f, 0.5f, 3.5f };
+float lightDuration[3] = { 10.0f, 2.0f, 20.0f };
 float carX = -1.2f;
 
 const char* vertexShaderSource =
@@ -244,3 +244,4 @@ int main()
     glfwTerminate();
     return 0;
 }
+
