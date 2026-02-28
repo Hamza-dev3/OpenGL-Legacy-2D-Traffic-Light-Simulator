@@ -1,6 +1,6 @@
-# 🚦 Traffic Light — OpenGL Project
+# 🚦2D Traffic Light Simulator — An OpenGL Legacy Project
 
-A real-time interactive traffic light simulation built with **OpenGL 3.3 Core**, **GLFW**, and **GLEW** in C++.  
+A real-time interactive 2D traffic light simulator built with **OpenGL 3.3 Core**, **GLFW**, and **GLEW** in C++.  
 Lights cycle automatically (Red → Yellow → Green), a car moves and stops at the traffic light, and the scene responds to keyboard input.
 
 ---
